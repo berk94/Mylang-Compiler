@@ -1,0 +1,7 @@
+begin
+   read a    ;
+   while( 100 - a ) begin 
+      print a  ; 
+      a = a + 1  
+   end 
+end 
