@@ -6,7 +6,7 @@ According to the homework description pdf, my project does not have any shortcom
 
 I assumed in this project that each token in the input file is separated by at least one space character. Since the conditions of being a valid ID are not specified, I assumed every string other than the ones starting with integers 0 through 9 and the terminals in the parse tree can be declared without problem. 
 
-I did not use any special libraries in this program – nothing that STL does not include. I only included <iostream>, <fstream> and <set>.
+I did not use any special libraries in this program – nothing that STL does not include. I only included \<iostream>, \<fstream> and \<set>.
 
 To compile the program, just write “make” as I also added a makefile. 
 
